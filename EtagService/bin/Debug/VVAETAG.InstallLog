@@ -1,0 +1,161 @@
+﻿Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Creating EventLog source VVA.ETAG in log Application...
+Rolling back assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Restoring event log to previous state for source VVA.ETAG.
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Attempt to stop service VVA.ETAG.
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Creating EventLog source VVA.ETAG in log Application...
+Rolling back assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Restoring event log to previous state for source VVA.ETAG.
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\PhoLu\EtagService\MyFirstService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.
+Installing assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Installing service VVA.ETAG...
+Service VVA.ETAG has been successfully installed.
+Creating EventLog source VVA.ETAG in log Application...
+Committing assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Uninstalling assembly 'D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.exe
+   logfile = D:\OneDrive\TanNguyen2022\VVA\CamThinh\0000_ETC\BanGiao_VVA\EtagService_New\EtagService\bin\Debug\VVAETAG.InstallLog
+Removing EventLog source VVA.ETAG.
+Service VVA.ETAG is being removed from the system...
+Service VVA.ETAG was successfully removed from the system.

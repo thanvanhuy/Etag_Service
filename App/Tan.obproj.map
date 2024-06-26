@@ -1,0 +1,164 @@
+﻿<Mappings><Assembly Name="vvaEtcApi"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="vvaEtcApi.clsVvaEtcApi" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="get_getTokenStatus" Variables="this;" ParamCnt="1" />
+<Method Token="100663301" Name="set_getTokenStatus" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663302" Name="PostAPILogin" Variables="this;V_0;V_1;V_2;" ParamCnt="1" />
+<Method Token="100663303" Name="getToKen" Variables="this;url;username;password;V_0;" ParamCnt="4" />
+<Method Token="100663304" Name="Search" Variables="this;url;V_0;" ParamCnt="2" />
+<Method Token="100663305" Name="xuLy" Variables="this;inputPlateNum;plateType;V_0;" ParamCnt="3" />
+<Method Token="100663306" Name="PostAPI" Variables="this;inputPlateNum;plateType;etag;plate;info;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;V_8;V_9;V_10;V_11;V_12;V_13;V_14;V_15;V_16;V_17;V_18;V_19;V_20;V_21;V_22;V_23;V_24;V_25;V_26;V_27;V_28;V_29;V_30;V_31;V_32;V_33;V_34;V_35;V_36;V_37;V_38;V_39;" ParamCnt="6" />
+<Field Token="67108865" Name="client_id" />
+<Field Token="67108866" Name="client_secret" />
+<Field Token="67108867" Name="data_Token" />
+<Field Token="67108868" Name="&lt;getTokenStatus&gt;k__BackingField" />
+<Field Token="67108869" Name="client" />
+<Field Token="67108870" Name="cookies" />
+<Type Token="33554436" Name="vvaEtcApi.D" />
+<Method Token="100663308" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663309" Name="get_wId" Variables="this;" ParamCnt="1" />
+<Method Token="100663310" Name="set_wId" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663311" Name="get_content" Variables="this;" ParamCnt="1" />
+<Method Token="100663312" Name="set_content" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663313" Name="get_data" Variables="this;" ParamCnt="1" />
+<Method Token="100663314" Name="set_data" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108871" Name="&lt;wId&gt;k__BackingField" />
+<Field Token="67108872" Name="&lt;content&gt;k__BackingField" />
+<Field Token="67108873" Name="&lt;data&gt;k__BackingField" />
+<Type Token="33554438" Name="vvaEtcApi.Root" />
+<Method Token="100663321" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663322" Name="get_e" Variables="this;" ParamCnt="1" />
+<Method Token="100663323" Name="set_e" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663324" Name="get_m" Variables="this;" ParamCnt="1" />
+<Method Token="100663325" Name="set_m" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663326" Name="get_d" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="set_d" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108875" Name="&lt;e&gt;k__BackingField" />
+<Field Token="67108876" Name="&lt;m&gt;k__BackingField" />
+<Field Token="67108877" Name="&lt;d&gt;k__BackingField" />
+<Type Token="33554439" Name="vvaEtcApi.data" />
+<Method Token="100663328" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="get_LANE_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663330" Name="set_LANE_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663331" Name="get_CHARGE_STATUS" Variables="this;" ParamCnt="1" />
+<Method Token="100663332" Name="set_CHARGE_STATUS" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663333" Name="get_TOLL_ID" Variables="this;" ParamCnt="1" />
+<Method Token="100663334" Name="set_TOLL_ID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663335" Name="get_ETAG_NUMBER" Variables="this;" ParamCnt="1" />
+<Method Token="100663336" Name="set_ETAG_NUMBER" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663337" Name="get_PLATE" Variables="this;" ParamCnt="1" />
+<Method Token="100663338" Name="set_PLATE" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663339" Name="get_CHECKOUT_TID" Variables="this;" ParamCnt="1" />
+<Method Token="100663340" Name="set_CHECKOUT_TID" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663341" Name="get_CHECKIN_TID" Variables="this;" ParamCnt="1" />
+<Method Token="100663342" Name="set_CHECKIN_TID" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108878" Name="&lt;LANE_ID&gt;k__BackingField" />
+<Field Token="67108879" Name="&lt;CHARGE_STATUS&gt;k__BackingField" />
+<Field Token="67108880" Name="&lt;TOLL_ID&gt;k__BackingField" />
+<Field Token="67108881" Name="&lt;ETAG_NUMBER&gt;k__BackingField" />
+<Field Token="67108882" Name="&lt;PLATE&gt;k__BackingField" />
+<Field Token="67108883" Name="&lt;CHECKOUT_TID&gt;k__BackingField" />
+<Field Token="67108884" Name="&lt;CHECKIN_TID&gt;k__BackingField" />
+<Type Token="33554440" Name="vvaEtcApi.clsVvaEtcApi/clsToken" />
+<Method Token="100663343" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663344" Name="get_access_token" Variables="this;" ParamCnt="1" />
+<Method Token="100663345" Name="set_access_token" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663346" Name="get_expires_in" Variables="this;" ParamCnt="1" />
+<Method Token="100663347" Name="set_expires_in" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663348" Name="get_refresh_expires_in" Variables="this;" ParamCnt="1" />
+<Method Token="100663349" Name="set_refresh_expires_in" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663350" Name="get_refresh_token" Variables="this;" ParamCnt="1" />
+<Method Token="100663351" Name="set_refresh_token" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663352" Name="get_token_type" Variables="this;" ParamCnt="1" />
+<Method Token="100663353" Name="set_token_type" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663354" Name="get_session_state" Variables="this;" ParamCnt="1" />
+<Method Token="100663355" Name="set_session_state" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663356" Name="get_scope" Variables="this;" ParamCnt="1" />
+<Method Token="100663357" Name="set_scope" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108885" Name="&lt;access_token&gt;k__BackingField" />
+<Field Token="67108886" Name="&lt;expires_in&gt;k__BackingField" />
+<Field Token="67108887" Name="&lt;refresh_expires_in&gt;k__BackingField" />
+<Field Token="67108888" Name="&lt;refresh_token&gt;k__BackingField" />
+<Field Token="67108889" Name="&lt;token_type&gt;k__BackingField" />
+<Field Token="67108890" Name="&lt;session_state&gt;k__BackingField" />
+<Field Token="67108891" Name="&lt;scope&gt;k__BackingField" />
+<Type Token="33554441" Name="vvaEtcApi.clsVvaEtcApi/&lt;&gt;c__DisplayClass10_0" />
+<Method Token="100663358" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663359" Name="&lt;PostAPILogin&gt;b__0" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108892" Name="&lt;&gt;4__this" />
+<Field Token="67108893" Name="loginUrl" />
+<Field Token="67108894" Name="username" />
+<Field Token="67108895" Name="password" />
+<Type Token="33554442" Name="vvaEtcApi.clsVvaEtcApi/&lt;&gt;c__DisplayClass14_0" />
+<Method Token="100663360" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663361" Name="&lt;PostAPI&gt;b__0" Variables="this;V_0;" ParamCnt="1" />
+<Field Token="67108896" Name="&lt;&gt;4__this" />
+<Field Token="67108897" Name="url" />
+<Field Token="67108898" Name="result" />
+<Type Token="33554443" Name="vvaEtcApi.clsVvaEtcApi/&lt;Search&gt;d__12" />
+<Method Token="100663362" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663363" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;V_4;V_5;V_6;V_7;" ParamCnt="1" />
+<Method Token="100663364" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108899" Name="&lt;&gt;1__state" />
+<Field Token="67108900" Name="&lt;&gt;t__builder" />
+<Field Token="67108901" Name="url" />
+<Field Token="67108902" Name="&lt;&gt;4__this" />
+<Field Token="67108903" Name="&lt;response&gt;5__1" />
+<Field Token="67108904" Name="&lt;&gt;s__2" />
+<Field Token="67108905" Name="&lt;responseContent&gt;5__3" />
+<Field Token="67108906" Name="&lt;&gt;s__4" />
+<Field Token="67108907" Name="&lt;&gt;u__1" />
+<Field Token="67108908" Name="&lt;&gt;u__2" />
+<Type Token="33554444" Name="vvaEtcApi.clsVvaEtcApi/&lt;getToKen&gt;d__11" />
+<Method Token="100663365" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663366" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;V_4;" ParamCnt="1" />
+<Method Token="100663367" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108909" Name="&lt;&gt;1__state" />
+<Field Token="67108910" Name="&lt;&gt;t__builder" />
+<Field Token="67108911" Name="url" />
+<Field Token="67108912" Name="username" />
+<Field Token="67108913" Name="password" />
+<Field Token="67108914" Name="&lt;&gt;4__this" />
+<Field Token="67108915" Name="&lt;loginContent&gt;5__1" />
+<Field Token="67108916" Name="&lt;loginResponse&gt;5__2" />
+<Field Token="67108917" Name="&lt;accessToken&gt;5__3" />
+<Field Token="67108918" Name="&lt;token&gt;5__4" />
+<Field Token="67108919" Name="&lt;&gt;s__5" />
+<Field Token="67108920" Name="&lt;&gt;u__1" />
+<Type Token="33554445" Name="vvaEtcApi.clsVvaEtcApi/&lt;xuLy&gt;d__13" />
+<Method Token="100663368" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663369" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663370" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108921" Name="&lt;&gt;1__state" />
+<Field Token="67108922" Name="&lt;&gt;t__builder" />
+<Field Token="67108923" Name="inputPlateNum" />
+<Field Token="67108924" Name="plateType" />
+<Field Token="67108925" Name="&lt;&gt;4__this" />
+<Field Token="67108926" Name="&lt;bienso&gt;5__1" />
+<Field Token="67108927" Name="&lt;url&gt;5__2" />
+<Field Token="67108928" Name="&lt;searchResult&gt;5__3" />
+<Field Token="67108929" Name="&lt;&gt;s__4" />
+<Field Token="67108930" Name="&lt;&gt;u__1" />
+<Type Token="33554446" Name="vvaEtcApi.clsVvaEtcApi/&lt;&gt;c__DisplayClass10_0/&lt;&lt;PostAPILogin&gt;b__0&gt;d" />
+<Method Token="100663371" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663372" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663373" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108931" Name="&lt;&gt;1__state" />
+<Field Token="67108932" Name="&lt;&gt;t__builder" />
+<Field Token="67108933" Name="&lt;&gt;4__this" />
+<Field Token="67108934" Name="&lt;&gt;u__1" />
+<Type Token="33554447" Name="vvaEtcApi.clsVvaEtcApi/&lt;&gt;c__DisplayClass14_0/&lt;&lt;PostAPI&gt;b__0&gt;d" />
+<Method Token="100663374" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663375" Name="MoveNext" Variables="this;V_0;V_1;V_2;V_3;" ParamCnt="1" />
+<Method Token="100663376" Name="SetStateMachine" Variables="this;stateMachine;" ParamCnt="2" />
+<Field Token="67108935" Name="&lt;&gt;1__state" />
+<Field Token="67108936" Name="&lt;&gt;t__builder" />
+<Field Token="67108937" Name="&lt;&gt;4__this" />
+<Field Token="67108938" Name="&lt;searchResult&gt;5__1" />
+<Field Token="67108939" Name="&lt;&gt;s__2" />
+<Field Token="67108940" Name="&lt;&gt;u__1" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663307" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly></Mappings>
